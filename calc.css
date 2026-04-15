@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+button{
+    width:80px;
+    height:80px;
+    margin:3px 3px;
+    padding:10px;
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: #333333;
+    border:none;
+    color:white
+}
+.container{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+h1{
+   text-align: center;
+   color:white;
+   letter-spacing:5px;
+}
+.rows input{
+   margin:0px 10px 10px 0px;
+   padding:3px;
+   height: 39px;
+   text-align: right;
+   width: 340px;
+   font-size:50px;
+   border: none;
+   background-color: rgb(0, 0, 0);
+   color:white;
+   outline:none;
+}
+.card{
+   background-color: black;
+   padding: 20px;
+   border-radius: 50px;
+}  
+*{
+   font-family:"Roboto Condensed", sans-serif;
+   font-weight: bold;
+}
+#or{
+   background-color:#ff9500;
+}
+#gr{
+   background-color:#a5a5a5;
+   color:black;
+}
+.button:hover{
+   cursor: pointer;
+   transition: all 0s;
+   transform: translateX(-4px);
+   box-shadow: 2px 2px 0px 1.5px rgba(255, 255, 255, 0.499);
+}
+
