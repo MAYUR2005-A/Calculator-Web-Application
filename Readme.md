@@ -36,8 +36,7 @@ It is designed with a simple interface and is mainly optimized for desktop use.
 
 ## 🔗 Live Demo
 
-👉 Add your deployed link here
-
+👉  https://mayur2005-a.github.io/Calculator-Web-Application/
 ---
 
 ## 📂 Project Structure
